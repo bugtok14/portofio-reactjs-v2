@@ -2,6 +2,7 @@ import React, { useState } from 'react'
 import './Navbar.css'
 import { Link } from 'react-router-dom'
 import {FaBars, FaTimes} from 'react-icons/fa'
+import logo from '../assests/davelogo.png'
 
 const Navbar = () => {
 
@@ -22,8 +23,7 @@ const Navbar = () => {
   return (
     <div className={color ? "header header-bg" : "header"}>
         <Link to='/' className='logo'>
-            <h1>DAVE</h1>
-            <p>Portfolio</p>
+            <img src={logo} alt='logo'  className='logo-image'/>
         </Link>
         <ul className={click ? 'nav-menu active' : 'nav-menu'}>
             <li>
