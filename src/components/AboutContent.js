@@ -10,7 +10,15 @@ function AboutContent() {
     <div className='about'>
         <div className='left'>
             <h1>Who am I?</h1>
-            <p>I'm a Software Developer and a Software Tester. I help create or test 
+            <p>I graduated BS Computer Engineering (2018-2022) at {' '}
+                <a href='https://www.nemsu.edu.ph/'  
+                style={{
+                 color: 'red',
+                 textDecoration: 'underline'
+          }} 
+          >
+            NEMSU-Cantilan Campus</a>. 
+                <br/> I'm a Software Developer and a Software Tester. I can help create or test 
                 software products.
             </p>
                 <Link to="/contact">
