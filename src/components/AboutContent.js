@@ -18,7 +18,7 @@ function AboutContent() {
           }} 
           >
             NEMSU-Cantilan Campus</a>. 
-                <br/> I'm a Software Developer and a Software Tester. I can help create or test 
+                <br/> I'm a Software Developer and a Software Tester. I can help create or test your
                 software products.
             </p>
                 <Link to="/contact">

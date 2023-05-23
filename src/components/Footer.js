@@ -30,7 +30,7 @@ function Footer() {
 
             <div className='right'>
                 <h4>About Company</h4>
-                <p>This is me Dave. CEO and Founder of Bugtok™.
+                <p>This is me Dave, Founder of Bugtok™.
                     I enjoy creating new projects and learning new things.
                 </p>
                 <div className='social'>
