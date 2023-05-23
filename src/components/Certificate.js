@@ -1,48 +1,56 @@
 import React from 'react'
 import './Certificate.css'
-import { Link } from 'react-router-dom'
+
 
 const Certificate = () => {
   return (
     <div className='pricing'>
+        <h1 className='skills'> Skills </h1>
         <div className='card-container'>
             <div className='card'>
-                <h3> -Basic- </h3>
+                <h3> - Front-End - </h3>
                 <span className='bar'></span>
-                <p className='btc'> $100</p>
-                <p>- 3 Days</p>
-                <p>- 3 Pages</p>
-                <p>-Featured</p>
-                <p>- Responsive Design</p>
-                <Link to="/contact" className="btn1">
+                <p>- HTML, CSS</p>
+                <p>- AngularJS</p>
+                <p>- Thymeleaf</p>
+                <p>- Bootstrap</p>
+                <p>- MaterialUI</p>
+                {/* <Link to="/project" className="btn1">
                     Purchase Now
-                </Link>
+                </Link> */}
             </div>
 
             <div className='card'>
-                <h3> -Premium- </h3>
+                <h3> - Back-End - </h3>
                 <span className='bar'></span>
-                <p className='btc'> $200</p>
-                <p>- 5 Days</p>
-                <p>- 8 Pages</p>
-                <p>-Featured</p>
-                <p>- Responsive Design</p>
-                <Link to="/contact" className="btn1">
+                <p>- SpringBoot</p>
+                <p>- NodeJS</p>
+                <p>- Django</p>
+                <p>- MySQL</p>
+                <p>- MonggoDB</p>
+                {/* <Link to="/project" className="btn1">
                     Purchase Now
-                </Link>
+                </Link> */}
             </div>
 
             <div className='card'>
-                <h3> -Basic- </h3>
+                <h3> - Testing - </h3>
                 <span className='bar'></span>
-                <p className='btc'> $100</p>
-                <p>- 3 Days</p>
-                <p>- 3 Pages</p>
-                <p>-Featured</p>
-                <p>- Responsive Design</p>
-                <Link to="/contact" className="btn1">
-                    Purchase Now
-                </Link>
+                {/* <p className='btc'> $100</p> */}
+                <p>- Functional Testing (Manual & Automated)</p>
+                <p>- Selenium</p>
+                <p>- TOSCA</p>
+                <p>- TestNG </p>
+            </div>
+
+            <div className='card'>
+                <h3> - PLanguages - </h3>
+                <span className='bar'></span>
+                <p>- Java</p>
+                <p>- Python</p>
+                <p>- C++</p>
+                <p>- JavaScript </p>
+                <p>- PHP </p>
             </div>
         </div>
     </div>

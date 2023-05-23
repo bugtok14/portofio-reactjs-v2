@@ -13,7 +13,7 @@ function HeroImg() {
             <p>Hi, I'M DAVE MARAPAO</p>
             <h1>Software Tester and Developer</h1>
             <div>
-                <Link to="/about" className='btn' >About Me</Link>
+                <a href='https://drive.google.com/file/d/1qgFqls6vlxViox474AmVEGry46U1arak/view?usp=sharing' className='btn'>My Resume</a>
                 <Link to="/contact" className='btn-light' >Contact</Link>
             </div>
         </div>

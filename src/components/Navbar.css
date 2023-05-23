@@ -9,8 +9,11 @@
     z-index: 10;
   }
   
-  .logo-image {
-    width: 400px;
+  .logo{
+    height: 100px;
+  }
+  .logo .logo-image {
+    width: 250px;
     height: auto;
   }
   
@@ -30,6 +33,10 @@
   .nav-menu li a {
     font-size: 29px;
     font-weight: 500;
+  }
+
+  .nav-menu li a:hover {
+    color: rgb(0, 162, 255);
   }
   
   .hamburger {
@@ -66,9 +73,9 @@
     .hamburger {
       display: initial;
     }
-  
-    .logo-image {
-      width: 250px;
+    
+   .logo .logo-image {
+      width: 200px;
       height: auto;
       margin-left: 0; /* Add this line to remove left margin */
     }

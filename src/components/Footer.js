@@ -18,7 +18,7 @@ function Footer() {
                 <div className='phone'>
                     <h4>
                     <FaPhone size={20} style={{color:"#fff", marginRight: "2rem" }} />
-                    +63 9467314606  </h4>
+                    +63 946731606  </h4>
                 </div>
 
                 <div className='email'>
@@ -30,8 +30,8 @@ function Footer() {
 
             <div className='right'>
                 <h4>About Company</h4>
-                <p>This is me Dave. CEO and Founder of Bugtok.
-                    I enjoy creating new projects and learning.
+                <p>This is me Dave. CEO and Founder of Bugtok™.
+                    I enjoy creating new projects and learning new things.
                 </p>
                 <div className='social'>
                     <a href='https://www.facebook.com/dave.marapao'>
@@ -56,7 +56,7 @@ function Footer() {
             </div>
         </div>
         <div className='center'>
-                <p className='copyright'>&copy; 2023 All Rights Reserved.</p>
+                <p className='copyright'>&copy; 2023 Bugtok™  All Rights Reserved.</p>
         </div>
     </div>
   )
