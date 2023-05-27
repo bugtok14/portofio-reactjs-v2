@@ -11,7 +11,7 @@ function Form() {
     e.preventDefault();
 
     try {
-      const response = await fetch('https://davemarapao.online/send-email', {
+      const response = await fetch('http://localhost:8080/send-email', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
