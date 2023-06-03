@@ -60,7 +60,8 @@
         font-size: 1.2rem;
     }
     .content .btn{
-        margin: 1rem 0.5rem;   
-        font-size: 0.75rem;
+        
+        padding: 12px 11px;
+        font-size: 0.7rem;
     }
 }
