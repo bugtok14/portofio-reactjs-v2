@@ -29,8 +29,8 @@ function Footer() {
             </div>
 
             <div className='right'>
-                <h4>About Company</h4>
-                <p>This is me Dave, Founder of Bugtok™.
+                <h4>About</h4>
+                <p>This is me, Dave™. Let's be friends! 😊
                     I enjoy creating new projects and learning new things.
                 </p>
                 <div className='social'>
@@ -56,7 +56,7 @@ function Footer() {
             </div>
         </div>
         <div className='center'>
-                <p className='copyright'>&copy; 2023 Bugtok™  All Rights Reserved.</p>
+                <p className='copyright'>&copy; 2023 Dave™ Portfolio <br/>  All Rights Reserved</p>
         </div>
     </div>
   )

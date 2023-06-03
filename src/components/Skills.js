@@ -11,7 +11,7 @@ const Skills = () => {
                 <h3> - Front-End - </h3>
                 <span className='bar'></span>
                 <p>- HTML, CSS</p>
-                <p>- AngularJS</p>
+                <p>- ReactJS</p>
                 <p>- Thymeleaf</p>
                 <p>- Bootstrap</p>
                 <p>- MaterialUI</p>
@@ -25,7 +25,6 @@ const Skills = () => {
                 <span className='bar'></span>
                 <p>- SpringBoot</p>
                 <p>- NodeJS</p>
-                <p>- Django</p>
                 <p>- MySQL</p>
                 <p>- MonggoDB</p>
                 {/* <Link to="/project" className="btn1">

@@ -6,14 +6,14 @@ const ProjectCardData = [
     {
         imgsrc: pro1,
         title: "Spotify Clone 2022",
-        text: "The Spotify Clone 2022 is made up with modern technologies. Created with React and  ts-audio.",
-        view: "https://paidfreeourse.blogspot.com/2021/02/django-with-react-ecommerce-website.html",
+        text: "Experience the joy of music with Spotify Clone, your ultimate destination for endless entertainment. Created with React and  Media Source Extensions (MSE) .",
+        view: "",
 
     },
     {
         imgsrc: pro2,
         title: "E-Commerce Website",
-        text: "One-Stop Shop for All! Browse, Select, and Purchase Anything That's on Your Mind with Ease. Created with ReactJS with Spring with MonggoDB",
+        text: "One-Stop Shop for All! Browse, Select, and Purchase Anything That's on Your Mind with Ease. Created with ReactJS and  Spring with PostgreSQL. The source is not accessible right now.",
         view: "www.google.com",
         
     }

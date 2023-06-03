@@ -17,7 +17,7 @@ function Contact() {
             <>
             Let's connect! I am available on almost every social media.<br />
             You can message me, just click any social media icon at the bottom of the page.<br />
-            I will reply within 24 hours. Or Send me a message here.
+            I will reply within 24 hours. Or Send a message here.
           </> 
          }
          />
