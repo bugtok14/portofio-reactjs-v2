@@ -59,4 +59,8 @@
     .hero .content p{
         font-size: 1.2rem;
     }
+    .content .btn{
+        margin: 1rem 0.5rem;   
+        font-size: 0.7rem;
+    }
 }
