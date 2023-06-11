@@ -26,8 +26,9 @@ function Certificate() {
                     <img src={certImageAS2} alt='certificate' className='certificate-image'/>
                 </div>
             </Link>
-
-            <Link to='https://drive.google.com/file/d/1LsNp8xQ0QG90i7WJhZDrPQn9ePYFljHe/view?usp=sharing' target="_blank" rel="noopener noreferrer">
+        </div>
+        <div className='cert-container'>
+        <Link to='https://drive.google.com/file/d/1LsNp8xQ0QG90i7WJhZDrPQn9ePYFljHe/view?usp=sharing' target="_blank" rel="noopener noreferrer">
                 <div className='cert'>
                     <h3>  Tricentis Test Design Specialist Level 1 </h3>
                     <span className='bar'></span>
