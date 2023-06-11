@@ -24,11 +24,12 @@
 .project-title{
     color:#fff;
     padding: 1rem 0;
+    font-size: 21px;
 }
 
 .pro-details p{
     padding-bottom: 1rem;
-    font-size: 1.1rem;
+    font-size: 0.9rem;
     text-align: justify;
 }
 
